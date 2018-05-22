@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="title" content="上海蜂云-Beehive Trans：跨境物流全领域SaaS，一站式跨境物流解决方案平台。"/>
+    <meta name="Keywords" content="亚马逊物流、FBA物流货代、美国FBA、日本FBA、欧洲FBA、FBA空运、FBA海运。">
+    <meta name="description" content="蜂云·集，蜂运智慧集货平台，专业亚马逊物流提供商、FBA物流货代、美国FBA、日本FBA、欧洲FBA、FBA空运、FBA海运。">
+    <link rel="shortcut icon" type="image/x-icon" href="./src/assets/images/ico.ico" media="screen"/>
+    <title>蜂云 · 集蜂运智慧集货平台，专业亚马逊物流提供商、FBA物流货代、美国FBA、日本FBA、欧洲FBA、FBA空运、FBA海运。</title>
+    <script type="text/javascript">
+        var UA = navigator.userAgent;   // 取得浏览器的userAgent字符串
+        var isOpera = UA.indexOf("Opera") > -1;   // 判断是否Opera浏览器
+        // 判断是否IE浏览器
+        var isIE = UA.indexOf("compatible") > -1 && UA.indexOf("MSIE") > -1 && ! isOpera;
+        if (isIE) {
+            var download = [
+                ["1/detail_2661","chrome谷歌"],
+                ["7/detail_2867","火狐"],
+                ["11/detail_351","QQ"],
+                ["7/detail_22127","搜狗高速"],
+                ["15/detail_6915","猎豹安全"],
+                ["13/detail_56513","2345加速"]
+                // ["https://support.microsoft.com/zh-cn/help/17621/internet-explorer-downloads","IE9+"]
+            ];
+            var print = "",html = "";
+            for(var i = 0; i< download.length; i++ ){
+                var item = download[i];
+                //var href = i < download.length - 1 ? 'https://pc.qq.com/detail/'+ item[0] +'.html' : item[0];
+                var href = 'https://pc.qq.com/detail/'+ item[0] +'.html';
+                html += '<a href="'+ href +'" title="下载'+ item[1] +'浏览器" '+
+                            'style="color:#ce645e;font-size:32px;display:block;margin-bottom:15px;" target="_blank">'+
+                            '请下载'+ item[1] +'浏览器'+
+                        '</a>';
+            }
+            print += '<div style="margin:30px 30px;font-size:24px;">' +
+                        '为了您的最佳使用体验，请使用谷歌或其他浏览器' +
+                     '</div>'+
+                     '<div style="margin:0 30px;">'+ html + '</div>';
+
+            document.write(print);
+        }
+    </script>
+</head>
+<body>
+<div id="app"></div>
+<!-- built files will be auto injected -->
+</body>
+</html>

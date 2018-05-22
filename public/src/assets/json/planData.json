@@ -1,0 +1,58 @@
+{
+    "status": 0,
+    "message": "请求成功",
+    "data": [
+        {
+            "plan_id":"tc5666",
+            "plan_num":123,
+            "plan_name": "美国中部 (邮编5-7开头) 普货专线-11",
+            "refer_age": "9-12工作日",
+            "char_weight": "2.50",
+            "deduct": "7000",
+            "unit_price": "91.12",
+            "transform_style": "空派专线",
+            "recommendation": 1,
+            "origin_price": "620.55",
+            "now_price": "221.50"
+        },
+        {
+            "plan_id":"bw7788",
+            "plan_num":456,
+            "plan_name": "CN-UPS美国小货 (红单500) -13",
+            "refer_age": "9-12工作日",
+            "char_weight": "2.50",
+            "deduct": "7000",
+            "unit_price": "91.12",
+            "transform_style": "空派专线",
+            "recommendation": 2,
+            "origin_price": "620.55",
+            "now_price": "221.50"
+        },
+        {
+            "plan_id":"df2233",
+            "plan_num":789,
+            "plan_name": "美国中部 (邮编5-7开头) 普货专线-11",
+            "refer_age": "9-12工作日",
+            "char_weight": "2.50",
+            "deduct": "7000",
+            "unit_price": "91.12",
+            "transform_style": "空派专线",
+            "recommendation": 3,
+            "origin_price": "620.55",
+            "now_price": "221.50"
+        },
+        {
+            "plan_id":"ty4455",
+            "plan_num":912,
+            "plan_name": "美国中部 (邮编5-7开头) 普货专线-11",
+            "refer_age": "9-12工作日",
+            "char_weight": "2.50",
+            "deduct": "7000",
+            "unit_price": "91.12",
+            "transform_style": "空派专线",
+            "recommendation": 4,
+            "origin_price": "620.55",
+            "now_price": "221.50"
+        }
+    ]
+}

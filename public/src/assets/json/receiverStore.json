@@ -1,0 +1,129 @@
+{
+    "status": 0,
+    "message": "请求成功",
+    "data": {
+        "amazon":[
+            {
+                "storeId": "123",
+                "storeName": "Amazon LLK",
+                "storeCode": "FTWO",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            },
+            {
+                "storeId": "124",
+                "storeName": "Amazon LLK",
+                "storeCode": "FTWO",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            },
+            {
+                "storeId": "125",
+                "storeName": "Amazon LLK",
+                "storeCode": "FTWO",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            },
+            {
+                "storeId": "126",
+                "storeName": "Amazon LLK",
+                "storeCode": "FTWO",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            },
+            {
+                "storeId": "127",
+                "storeName": "Amazon LLK",
+                "storeCode": "FTWO",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            },
+            {
+                "storeId": "128",
+                "storeName": "Amazon LLK",
+                "storeCode": "FTWO",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            },
+            {
+                "storeId": "129",
+                "storeName": "Amazon LLK",
+                "storeCode": "FTWO",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            }
+        ],
+        "third":[
+            {
+                "storeId": "123",
+                "storeName": "Amazon LLK",
+                "contactPerson": "Johason",
+                "tel": "0990-2283-223",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            },
+            {
+                "storeId": "124",
+                "storeName": "Amazon LLK",
+                "contactPerson": "Johason",
+                "tel": "0990-2283-223",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            },
+            {
+                "storeId": "125",
+                "storeName": "Amazon LLK",
+                "contactPerson": "Johason",
+                "tel": "0990-2283-223",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            },
+            {
+                "storeId": "126",
+                "storeName": "Amazon LLK",
+                "contactPerson": "Johason",
+                "tel": "0990-2283-223",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            },
+            {
+                "storeId": "127",
+                "storeName": "Amazon LLK",
+                "contactPerson": "Johason",
+                "tel": "0990-2283-223",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            },
+            {
+                "storeId": "128",
+                "storeName": "Amazon LLK",
+                "contactPerson": "Johason",
+                "tel": "0990-2283-223",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            },
+            {
+                "storeId": "129",
+                "storeName": "Amazon LLK",
+                "contactPerson": "Johason",
+                "tel": "0990-2283-223",
+                "country": "USA / CA / Culver City",
+                "zipCode": "032036",
+                "address": "4114 Sepulveda Blvd"
+            }
+        ]
+    }
+}
